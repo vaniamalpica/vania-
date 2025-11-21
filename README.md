@@ -9,6 +9,8 @@
 Hola, soy Vania :) 
 Estudio Tics, y me gusta practicar con proyectos y aprender cosas nuevas.
 
+<!-- TO DO: agregar más detalles sobre mi -->
+
 <details>
 <summary>Mi Top 3 de cosas favoritas</summary>
 
@@ -19,5 +21,10 @@ Estudio Tics, y me gusta practicar con proyectos y aprender cosas nuevas.
 |     3| Leer libros                    |
 
 </details>
+
+---
+> Cuanto más leas, más cosas sabrás. Cuanto más sepas, más lejos llegarás.
+
+—  Dr. Seuss
 
 
