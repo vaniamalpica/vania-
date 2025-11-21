@@ -4,7 +4,7 @@
   <img alt="Banner con sol y luna" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-## About me
+## Sobre mi
 
 Hola, soy Vania :) 
 Estudio Tics, y me gusta practicar con proyectos y aprender cosas nuevas.
