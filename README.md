@@ -9,9 +9,15 @@
 Hola, soy Vania :) 
 Estudio Tics, y me gusta practicar con proyectos y aprender cosas nuevas.
 
+<details>
+<summary>Mi Top 3 de cosas favoritas</summary>
+
 | Rank | Tema                           |
 |-----:|--------------------------------|
 |     1| Estar con mi familia           |
 |     2| Ver series                     |
 |     3| Leer libros                    |
+
+</details>
+
 
