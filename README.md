@@ -14,7 +14,7 @@ Estudio Tics, y me gusta practicar con proyectos y aprender cosas nuevas.
 <details>
 <summary>Mi Top 3 de cosas favoritas</summary>
 
-| Rank | Tema                           |
+| Rank | Cosas Fvoritas                 |
 |-----:|--------------------------------|
 |     1| Estar con mi familia           |
 |     2| Ver series                     |
